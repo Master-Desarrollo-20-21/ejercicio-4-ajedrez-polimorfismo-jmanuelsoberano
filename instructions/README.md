@@ -1,5 +1,7 @@
 # Instructions
 
+![Modelo del Dominio](modelodominio.png)
+
 ## Paso 1. Cómo configurar el tablero de ajedrez
 Al comienzo del juego, el tablero de ajedrez se coloca de modo que cada jugador tenga el cuadrado de color blanco (o claro) en la parte inferior derecha.
 
